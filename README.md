@@ -11,18 +11,15 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 
 ## 🚀 Skills & Technologies:
 - **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
-- **Backend**: Node.js, Express.js, Flask
+- **Backend**: Node.js, Flask
 - **Blockchain**: Solidity, Smart Contracts, Ethereum, Web3.js
 - **Machine Learning**: Python, TensorFlow, RNN, Scikit-learn
 - **Databases**: MySQL, MongoDB, SQLite
 - **Tools & Platforms**: Git, GitHub, Docker, AWS
 - **Other**: Webpack, Responsive Design, RESTful APIs
 
-## 📊 Stats:
-![Amratanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amratanshu788&show_icons=true&theme=radical)
-
 ## 🧑‍💻 Current Projects:
-- **[Blockchain-based Blood Bank Management System]**: A decentralized application that uses blockchain to ensure transparent blood donation and management.
+- **Blockchain-based Blood Bank Management System**: A decentralized application that uses blockchain to ensure transparent blood donation and management.
 - **Cryptocurrency Analysis Dashboard**: Analyzing the top 50 cryptocurrencies in real-time using Python and CoinGecko API.
   
 ## 🌐 Let's Connect:

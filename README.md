@@ -6,11 +6,11 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 - 🔭 Currently working on a **Blockchain-based Blood Bank Management System** using **RNN** and **Cloud Computing**.
 - 🌱 Currently learning **JavaScript**, **React**, and diving deeper into **Decentralized Applications (DApps)**.
 - 💬 Ask me about **Front-end Development**, **Blockchain**, or any tech-related topic!
-- 💡 Open to collaboration on innovative projects that integrate cutting-edge technologies like **Blockchain**, **AI/ML**, and **IoT**.
+- 💡 Open to collaboration on innovative projects that integrate cutting-edge technologies like **Blockchain**, **AI/ML**.
 - ⚡ Fun fact: I love solving complex problems and turning them into practical solutions, be it through code or logic puzzles!
 
 ## 🚀 Skills & Technologies:
-- **Frontend**: HTML5, CSS3, JavaScript (ES6+), React.js, Bootstrap, Tailwind CSS
+- **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
 - **Backend**: Node.js, Express.js, Flask
 - **Blockchain**: Solidity, Smart Contracts, Ethereum, Web3.js
 - **Machine Learning**: Python, TensorFlow, RNN, Scikit-learn
@@ -22,12 +22,12 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 ![Amratanshu's GitHub Stats](https://github-readme-stats.vercel.app/api?username=amratanshu788&show_icons=true&theme=radical)
 
 ## 🧑‍💻 Current Projects:
-- **[Blockchain-based Blood Bank Management System](https://github.com/amratanshu788/sanguinet)**: A decentralized application that uses blockchain to ensure transparent blood donation and management.
-- **Cryptocurrency Analysis Dashboard**: Analyzing top 50 cryptocurrencies in real-time using Python and CoinGecko API.
+- **[Blockchain-based Blood Bank Management System]**: A decentralized application that uses blockchain to ensure transparent blood donation and management.
+- **Cryptocurrency Analysis Dashboard**: Analyzing the top 50 cryptocurrencies in real-time using Python and CoinGecko API.
   
 ## 🌐 Let's Connect:
-- **Portfolio Website**: [amratanshu.dev](#) (Under Construction)
-- **LinkedIn**: [Amratanshu Chakrawarti](https://www.linkedin.com/in/amratanshu-chakrawarti)
+- **Portfolio Website(Under Construction)**: [amratanshu.dev](#)
+- **LinkedIn**: [Amratanshu](https://www.linkedin.com/in/amratanshu-7908ba136/)
 - **Email**: [amratanshuchakrawarti9415@gmail.com](mailto:amratanshuchakrawarti9415@gmail.com)
 
 ---

@@ -1,16 +1,5 @@
-<table>
-  <tr>
-    <td>
-      <h1 align="left">👋 Hi, I'm Amratanshu (@amratanshu788)</h1>
-    </td>
-    <td>
-      <h3 align="right">Visitor Counter</h3>
-      <p align="right"> 
-        <img src="https://profile-counter.glitch.me/amratanshu788/count.svg" />
-      </p>
-    </td>
-  </tr>
-</table>
+
+# 👋 Hi, I'm Amratanshu (@amratanshu788)
 
 ## 👨‍💻 About Me:
 I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen interest in **Blockchain**, **Machine Learning**, and **Cloud Computing**. I love building intuitive, responsive, and scalable web applications. As a final-year B.Tech student, I constantly explore new technologies and seek opportunities to grow technically and creatively.
@@ -42,3 +31,7 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 ---
 
 ✨ **"Turning ideas into reality, one line of code at a time."** ✨
+<h3 align="left">Visitor Counter </h3>
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/amratanshu788/count.svg" />
+</p>

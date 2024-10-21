@@ -38,3 +38,7 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 ---
 
 ✨ **"Turning ideas into reality, one line of code at a time."** ✨
+<h3 align="left">Visitor Counter </h3>
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=amratanshu788&label=Profile%20views&color=0e75b6&style=flat" alt="amratanshu788_counter" />
+</p>

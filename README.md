@@ -1,9 +1,6 @@
-<h3 align="center">A passionate frontend developer from India</h3>
-
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=amratanshu788&label=Profile%20views&color=0e75b6&style=flat" alt="amratanshu788" /> </p>
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+<h3 align="left">Visitor Counter </h3>
+<p align="left"> 
+  <img src="https://profile-counter.glitch.me/amratanshu788/count.svg" />
 </p>
 
 # 👋 Hi, I'm Amratanshu (@amratanshu788)
@@ -38,7 +35,3 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 ---
 
 ✨ **"Turning ideas into reality, one line of code at a time."** ✨
-<h3 align="left">Visitor Counter </h3>
-<p align="left"> 
-  <img src="https://profile-counter.glitch.me/amratanshu788/count.svg" />
-</p>

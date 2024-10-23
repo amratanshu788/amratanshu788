@@ -11,12 +11,11 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 
 ## 🚀 Skills & Technologies:
 - **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
-- **Backend**: Node.js, Flask
-- **Blockchain**: Solidity, Smart Contracts, Ethereum, Web3.js
-- **Machine Learning**: Python, TensorFlow, RNN, Scikit-learn
-- **Databases**: MySQL, MongoDB, SQLite
-- **Tools & Platforms**: Git, GitHub, Docker, AWS
-- **Other**: Webpack, Responsive Design, RESTful APIs
+- **Backend**: Node.js
+- **Blockchain**: Solidity, Smart Contracts
+- **Machine Learning**: Python, TensorFlow
+- **Databases**: MySQL, SQLite
+- **Tools & Platforms**: Git, GitHub
 
 ## 🧑‍💻 Current Projects:
 - **Blockchain-based Blood Bank Management System**: A decentralized application that uses blockchain to ensure transparent blood donation and management.

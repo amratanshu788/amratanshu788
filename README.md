@@ -10,10 +10,9 @@ I am a passionate **Front-End Developer** and a **Tech Enthusiast** with a keen 
 - ⚡ Fun fact: I love solving complex problems and turning them into practical solutions, be it through code or logic puzzles!
 
 ## 🚀 Skills & Technologies:
-- **Frontend**: HTML5, CSS3, JavaScript, React.js, Tailwind CSS
-- **Backend**: Node.js
+- **Frontend**: HTML5, CSS3, JavaScript, React.js
 - **Blockchain**: Solidity, Smart Contracts
-- **Machine Learning**: Python, TensorFlow
+- **Machine Learning**: Python
 - **Databases**: MySQL, SQLite
 - **Tools & Platforms**: Git, GitHub
 
